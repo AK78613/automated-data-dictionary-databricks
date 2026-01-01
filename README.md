@@ -37,5 +37,4 @@ metadata directly into Spark tables.
 
 ## Notes
 Due to Databricks Free Edition constraints, metadata definitions
-are stored as managed Spark tables. A sample CSV is included
-for reference.
+are stored as managed Spark tables.
